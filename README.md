@@ -6,7 +6,7 @@
 - 𝐇𝐚𝐧𝐝𝐨𝐧𝐠 𝐆𝐥𝐨𝐛𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝟐𝟏
 - 𝐌𝐚𝐣𝐨𝐫 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠
 
-
+<br>
 
 ##  📚‍ Tech Stack
 
@@ -25,8 +25,7 @@
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
 
-
-
+<br>
 
 
 
@@ -45,6 +44,8 @@
 | 2023.04.10~2023.06.16 |  Open Source Studio   |          'Roomlet' : 자취방 단기 양도/대여를 위한 원룸 중개 플랫폼           |      Spring 5, JSP      |                    [Front/Back-end](https://github.com/xlxhollywood/roomlet)                    |
 | 2024.01.30~2024.02.01 |  Open Source Studio   | 'Weatherguide' : 한국의 주요 랜드마크 실시간 날씨 정보와 후기 작성 기능을 제공하는 공공데이터 기반 관광 날씨 웹서비스 |          React          |                 [Front-end](https://github.com/xlxhollywood/weatherguide)                  |
 
+<br>
+
 ## 🎖️ AWARDS
 
 |  **Date**  |               **Award**                |                                                   **Detail**                                                    | **Organization** |
@@ -52,7 +53,7 @@
 | 2025.02.05 | 현대오토에버<br>배리어프리<br>앱 개발 컨테스트<br> [우수상] | '우리 동네에선 어떻게 버리지?' : 부모님과 독립해서 생활하기 시작한 Z세대, 지역별 분리수거 방식 차이, 종류별 분리수거 방식 등 분리수거에 관한 모든 궁금증을 해결해줄 수 있는 어플리케이션 제안 |    사단법인 그린라이트    |
 | 2024.07.04 |      ICT 콤플렉스 SW개발 공모전 <br>[장려상]       |                                 '소소가족' : 하루에 한 번, 질문에 답하며 가족 간 소소한 행복을 찾아가는 서비스                                 |    정보통신산업진흥원     |
 
-
+<br>
 
 ## 🗯️ Certificates
 
@@ -60,6 +61,7 @@
 + 유통관리사 2급
 + OPIc IM3
 
+<br>
 
 ## 📨 CONTACTS
 <img src="https://img.shields.io/badge/saint0325@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://saint0325.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=blogger&logoColor=white"/> </a>
