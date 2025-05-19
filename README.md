@@ -60,7 +60,6 @@
 + 유통관리사 2급
 + OPIc IM3
 
-<br>
 
 ## 📨 CONTACTS
 <img src="https://img.shields.io/badge/saint0325@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://saint0325.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=blogger&logoColor=white"/> </a>
