@@ -3,8 +3,8 @@
 
 
 ##  🙋🏻‍♂ ABOUT ME
-- Handong Global University 21
-- Major in Computer Science & Electronic Engineering
+- ʜᴀɴᴅᴏɴɢ ɢʟᴏʙᴀʟ ᴜɴɪᴠᴇʀꜱɪᴛʏ 𝟤𝟣
+- ᴍᴀᴊᴏʀ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ & ᴇʟᴇᴄᴛʀᴏɴɪᴄ ᴇɴɢɪɴᴇᴇʀɪɴɢ
 
 
 
