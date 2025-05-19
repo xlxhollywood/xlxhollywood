@@ -39,10 +39,10 @@
 ## 🧑🏻‍💻 PROJECTS
 |      **Period**       |      **Project**      |                        **Detail**                         |  **Development Tools**  |                                          **Link**                                          |
 |:---------------------:|:---------------------:|:---------------------------------------------------------:|:-----------------------:|:------------------------------------------------------------------------------------------:|
-| 2024.10.23~2025.05.20 |         SCRD          |           'SCRD' : 웹스크래핑 기반 방탈출 통합 예약/동행 매칭 서비스           | SpringBoot(Java), React | [Back-end](https://github.com/xlxhollywood/scrd-back)<br>[Crawling App](https://github.com/xlxhollywood/scrd-crawling)<br>[Front-end](https://github.com/xlxhollywood/scrd-front) |
-|     2025.05.20 ~      | Software Enginereeing |          'Camticket' : 대학생 동아리 공연을 위한 티켓 예매 서비스           |   SpringBoot(Kotlin)    |                   [Back-end](https://github.com/xlxhollywood/camticket-back-kotlin)                    |
-| 2024.12.07~2024.12.14 |  Open Source Studio   |          'Roomlet' : 자취방 단기 양도/대여를 위한 원룸 중개 플랫폼           |      Spring 5, JSP      |                    [통합 레포지토리](https://github.com/xlxhollywood/roomlet)                    |
-| 2024.10.13~2024.10.21 |  Open Source Studio   | 'Weatherguide' : 한국의 주요 랜드마크 실시간 날씨 정보와 후기 작성 기능을 제공하는 공공데이터 기반 관광 날씨 웹서비스 |          React          |                 [Front-end](https://github.com/xlxhollywood/weatherguide)                  |
+| 2024.10.23~2025.05.20 |         SCRD          |           **'SCRD'** : 웹스크래핑 기반 방탈출 통합 예약/동행 매칭 서비스           | SpringBoot(Java), React | [Back-end](https://github.com/xlxhollywood/scrd-back)<br>[Crawling App](https://github.com/xlxhollywood/scrd-crawling)<br>[Front-end](https://github.com/xlxhollywood/scrd-front) |
+|     2025.05.20 ~      | Software Enginereeing |          **'Camticket'** : 대학생 동아리 공연을 위한 티켓 예매 서비스           |   SpringBoot(Kotlin)    |                   [Back-end](https://github.com/xlxhollywood/camticket-back-kotlin)                    |
+| 2024.12.07~2024.12.14 |  Open Source Studio   |          **'Roomlet'** : 자취방 단기 양도/대여를 위한 원룸 중개 플랫폼           |      Spring 5, JSP      |                    [통합 레포지토리](https://github.com/xlxhollywood/roomlet)                    |
+| 2024.10.13~2024.10.21 |  Open Source Studio   | **'Weatherguide'** : 한국의 주요 랜드마크 실시간 날씨 정보와 후기 작성 기능을 제공하는 공공데이터 기반 관광 날씨 웹서비스 |          React          |                 [Front-end](https://github.com/xlxhollywood/weatherguide)                  |
 
 <br>
 
@@ -51,7 +51,7 @@
 | **Date**   | **Award**                     | **Detail**                                                                                                                                                                                                                     | **Organization**       |
 |------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
 | 2025.02.05 | 현대오토에버 <br> 배리어프리 <br> 앱 개발 <br> 컨테스트 <br> [우수상] | **'달리는 어르신'** : 보행이 어려운 노인분들을 위한 전동휠체어 공유 서비스. Z세대가 공유킥보드를 타듯, 어르신도 앱을 통해 근처 전동휠체어를 손쉽게 대여/반납하여 이동권을 보장하고, 지역 교통 약자의 접근성을 높이는 서비스 제안. | 사단법인<br> 그린라이트      |
-| 2024.07.04 | ICT 콤플렉스 SW개발 공모전 <br> [장려상]     | **'인사이트'** : 간단한 심리 테스트를 통해 정신 건강 상태를 점수화하고, 구간별로 상담이 필요한 사람과 정서적 보상이 우선인 사람을 분류해 **맞춤형 지원이 가능하도록 설계된 노숙인 대상 정신건강 관리 서비스** 제안.        | 정보통신<br>산업진흥원       |
+| 2024.07.04 | ICT 콤플렉스 SW개발 공모전 <br> [장려상]     | **'인사이트'** : 간단한 심리 테스트를 통해 정신 건강 상태를 점수화하고, 구간별로 상담이 필요한 사람과 정서적 보상이 우선인 사람을 분류해 맞춤형 지원이 가능하도록 설계된 노숙인 대상 정신건강 관리 서비스 제안.        | 정보통신<br>산업진흥원       |
 
 
 <br>
