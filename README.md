@@ -68,7 +68,4 @@
 <br>
 
 ## 📨 CONTACTS
-<img src="https://img.shields.io/badge/saint0325@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/sehun.oh@merlotlab.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<a href="https://saint0325.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=blogger&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/saint0325@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/sehun.oh@merlotlab.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://saint0325.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=blogger&logoColor=white"/> </a>
